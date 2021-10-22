@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://yamini6.github.io/csb-s03vq/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yamini6.github.io/csb-s03vq/static/js/main.4eb94424.chunk.js",
+    "main.js.map": "https://yamini6.github.io/csb-s03vq/static/js/main.4eb94424.chunk.js.map",
+    "runtime-main.js": "https://yamini6.github.io/csb-s03vq/static/js/runtime-main.4cfd50be.js",
+    "runtime-main.js.map": "https://yamini6.github.io/csb-s03vq/static/js/runtime-main.4cfd50be.js.map",
+    "static/css/2.9b7094a5.chunk.css": "https://yamini6.github.io/csb-s03vq/static/css/2.9b7094a5.chunk.css",
+    "static/js/2.afcf8f81.chunk.js": "https://yamini6.github.io/csb-s03vq/static/js/2.afcf8f81.chunk.js",
+    "static/js/2.afcf8f81.chunk.js.map": "https://yamini6.github.io/csb-s03vq/static/js/2.afcf8f81.chunk.js.map",
+    "index.html": "https://yamini6.github.io/csb-s03vq/index.html",
+    "static/css/2.9b7094a5.chunk.css.map": "https://yamini6.github.io/csb-s03vq/static/css/2.9b7094a5.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yamini6.github.io/csb-s03vq/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afcf8f81.chunk.js.LICENSE.txt": "https://yamini6.github.io/csb-s03vq/static/js/2.afcf8f81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cfd50be.js",
+    "static/css/2.9b7094a5.chunk.css",
+    "static/js/2.afcf8f81.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.4eb94424.chunk.js"
+  ]
+}
